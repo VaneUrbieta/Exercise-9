@@ -6,8 +6,8 @@
 }
 
 html, body {
-  font-family: Garamond, Sans-serif;
-  font-size: 16px;
+  font-family: Georgia, Sans-serif;
+  font-size: 12px;
   text-align: center;
   background-color: #142C73;
   color: #dbdbdb;
@@ -40,7 +40,7 @@ main {
 }
 
 .title {
-  color: #d4f2ff;
+  color: #B8E1FF;
   font-size: 1rem;
   letter-spacing: 0.15rem;
   text-transform: uppercase;
