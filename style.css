@@ -1,4 +1,61 @@
+
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  font-family: Garamond, Sans-serif;
+  font-size: 16px;
+  text-align: center;
+  background-color: #142C73;
+  color: #dbdbdb;
+}
+
+main {
+  background-color: #421a22;
+  border-radius: 12px;
+  width: 450px;
+  margin: 4rem auto;
+  overflow: hidden;
+}
+
+
+.image {
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+}
+
+.decor {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+
+  width: 80%;
+  margin: 2.5rem auto;
+}
+
+.title {
+  color: #d4f2ff;
+  font-size: 1rem;
+  letter-spacing: 0.15rem;
+  text-transform: uppercase;
+  margin-bottom: 0.5rem;
+}
+
+.quote {
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 2rem;
+  margin-bottom: 0.25rem;
+}
+
+.quoted {
+  color: #ffffff;
+  font-style: italic;
+  text-transform: lowercase;
 }
